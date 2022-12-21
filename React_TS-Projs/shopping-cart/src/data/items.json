@@ -1,26 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Book",
+      "name": "Macbook",
       "price": 10.99,
-      "imgUrl": "/imgs/book.jpeg"
+      "imgUrl": "/imgs/macbook-air-m1.jpeg"
     },
     {
       "id": 2,
-      "name": "Computer",
+      "name": "Ipad",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpeg"
+      "imgUrl": "/imgs/ipad-pro.jpeg"
     },
     {
       "id": 3,
-      "name": "Banana",
+      "name": "Iphone",
       "price": 1.05,
-      "imgUrl": "/imgs/banana.jpeg"
+      "imgUrl": "/imgs/iphone-14-pro-max.jpeg"
     },
     {
       "id": 4,
-      "name": "Car",
+      "name": "apple Watch",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpeg"
+      "imgUrl": "/imgs/apple-watch-ultra.png"
     }
   ]
